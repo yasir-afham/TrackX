@@ -1,0 +1,9 @@
+xcuserdata/
+*.xcuserstate
+.DS_Store
+DerivedData/
+build/
+.build/
+.swiftpm/
+Pods/
+__MACOSX/
